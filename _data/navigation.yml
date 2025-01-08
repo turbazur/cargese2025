@@ -1,0 +1,14 @@
+# main links links
+main:
+  - title: "Confirmed participants"
+    url: /participants/
+
+  - title: "Program"
+    url: /program/    
+                
+  - title: "Practical information"
+    url: /information/
+    
+  - title: "About"
+    url: /about/
+
