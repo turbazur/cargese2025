@@ -4,8 +4,6 @@ title: "Confirmed lecturers"
 author_profile: true
 ---
 
-### Lecturers 
-
 - Léonie Canet, *Université Grenoble Alpes*
 - Massimo Cencini, *Instituto deo Sistemi Complessi, Rome*
 - Bérengère Dubrulle, *CNRS, CEA Paris-Saclay*
