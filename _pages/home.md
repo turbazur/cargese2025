@@ -13,7 +13,7 @@ redirect_from:
 ## Cargèse, Corsica: October 21 - 31, 2025
 
 The school aims to highlight bridges between the various facets of contemporary research on turbulence. from mathematical fluids to experiments, from phenomenology to stochastic physics. It is the second edition of a biennial series of interdisciplinary schools focused on the fundamental aspects of turbulence, encompassing fields such as mathematics, physics, engineering, astronomy, and geophysics.
-The [first edition](https://univ-cotedazur.eu/events/turbulence-semester/summer-school) was held in Porquerolles in June 2024.
+The [first edition](https://univ-cotedazur.eu/events/turbulence-semester/summer-school) was held in Porquerolles in June 2023.
 
 Mornings will be devoted to minicourses delivered by lecturers from the mathematics and the physics community, organised into three topical bridges seeking to connect:
 
