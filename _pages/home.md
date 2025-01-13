@@ -10,7 +10,7 @@ redirect_from:
 
 ## Fall school in turbulence: October 21 - 31, 2025
 
-##  [Institut d’Études scientifiques de Cargèse](https://iesc.universita.corsica/?lang=en),  Corsica, France
+##  [Institut d’Études scientifiques de Cargèse](https://iesc.universita.corsica/?lang=en){:target="_blank"} ,  Corsica, France
 
 The school aims to highlight bridges between the various facets of contemporary research on turbulence. from mathematical fluids to experiments, from phenomenology to stochastic physics. It is the second edition of a biennial series of interdisciplinary schools focused on the fundamental aspects of turbulence, encompassing fields such as mathematics, physics, engineering, astronomy, and geophysics.
 The [first edition](https://univ-cotedazur.eu/events/turbulence-semester/summer-school) was held in Porquerolles in June 2023.
