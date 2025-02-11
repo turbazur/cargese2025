@@ -11,4 +11,15 @@ The workshop will be held at [Institut d'Études Scientifiques de Cargèse (IESC
 The school fee  will be about 800 euros, covering accommodation, breakfasts, lunches and airport shuttle on Monday 21  and Saturday 31. It will not include dinners and travel expenses. 
 
 ## Applications
-Pre-registrations will open mid-February.  Applications from PhD students and early career researchers are warmly encouraged.
+- Pre-registrations are now open until June 1., 2025
+
+-  Applications from PhD students and early career researchers are warmly encouraged. 
+
+- To pre-register please follow this link [https://iesc-inscriptions.fr](https://iesc-inscriptions.fr), look for the name of school, click on the litte avatar icon (see screenshot below) and follow the steps. You will need to create an account on the iesc website. No payment is required at this stage.
+
+<center>
+<img src="{{ site.baseurl }}/files/howto.png" alt="pic1" style="height: 200px" >
+</center>
+
+- Selected participants will be notified mid-June.
+
