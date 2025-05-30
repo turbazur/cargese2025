@@ -1,5 +1,5 @@
 ---
-title: "Lecture"
+title: "A gentle introduction to quantum turbulence: models, experiments and modern challenges"
 collection: talks
 type: "Talks"
 permalink: /talks/Nazarenko
