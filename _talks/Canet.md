@@ -1,5 +1,5 @@
 ---
-title: "Eulerian space-time correlations in turbulent flows"
+title: "Eulerian space-time correlations in turbulent flows: a renormalisation group approach"
 collection: talks
 type: "Talk"
 permalink: /talks/Canet
