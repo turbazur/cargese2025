@@ -8,7 +8,7 @@ dateb:
 datec: 
 author: "Léonie Canet" 
 affiliation: "Université Grenoble Alpes"
-excerpt: 
+excerpt: ""
 tags: 
 
 ---

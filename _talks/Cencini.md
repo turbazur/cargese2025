@@ -8,7 +8,7 @@ dateb:
 datec: 
 author: "Massimo Cencini" 
 affiliation: "CNR, Istituto dei Sistemi Complessi, Rome"
-excerpt: 
+excerpt: " "
 tags: 
 
 ---
