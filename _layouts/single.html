@@ -39,8 +39,8 @@ layout: default
           <p> <i class="fa fa-fw fa-user" aria-hidden="true"></i>  {{ page.author }}  </p>
           <p> <i class="fa fa-fw fa-anchor" aria-hidden="true"></i>  {{ page.affiliation }}  </p>
           {% if page.date %}<p><i class="fa fa-fw fa-calendar" style="color:black"></i> {{ page.date | default: "1900-01-01" | date: "%A %d, %H:%M" }} </p>{% endif %}
-          {% if page.dateb %}<p><i class="fa fa-fw fa-calendar" style="color:white"></i> {{ page.dateb | default: "1900-01-01" | date: "%A %d, %H:%M" }} </p> {% endif %}
-          {% if page.datec %} <p><i class="fa fa-fw fa-calendar" style="color:white"></i> {{ page.datec | default: "1900-01-01" | date: "%A %d, %H:%M" }} </p> {% endif %}
+          {% if page.dateb %}<p><i class="fa fa-fw fa-calendar" style="color:black"></i> {{ page.dateb | default: "1900-01-01" | date: "%A %d, %H:%M" }} </p> {% endif %}
+          {% if page.datec %} <p><i class="fa fa-fw fa-calendar" style="color:black"></i> {{ page.datec | default: "1900-01-01" | date: "%A %d, %H:%M" }} </p> {% endif %}
         {% endif %}
              
         {% if page.citation and page.paperurl %}

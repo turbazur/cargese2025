@@ -8,7 +8,7 @@ dateb:2025-10-29 08:30
 datec:2025-10-30 11:00
 author: "Pablo Mininni" 
 affiliation: "Universidad de Buenos Aires"
-excerpt:"" 
+excerpt: "" 
 tags: ""
 
 ---
