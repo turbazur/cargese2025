@@ -3,9 +3,9 @@ title: "Eulerian space-time correlations in turbulent flows: a renormalisation g
 collection: talks
 type: "Talk"
 permalink: /talks/Canet
-date: 2025-10-21 00:00
-dateb:  
-datec: 
+date: 2025-10-22 08:30
+dateb: 2025-10-24 08:30  
+datec: 2025-10-25 08:30
 author: "Léonie Canet" 
 affiliation: "Université Grenoble Alpes"
 excerpt: ""

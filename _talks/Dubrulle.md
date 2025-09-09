@@ -3,9 +3,9 @@ title: "Turbulence: from empirical laws to singularities"
 collection: talks
 type: "Talk"
 permalink: /talks/Dubrulle
-date: 2025-10-21 00:00
-dateb: 
-datec: 
+date: 2025-10-27 08:30
+dateb: 2025-10-28 11:00 
+datec: 2025-10-30 08:30
 author: "Bérengère Dubrulle" 
 affiliation: "CNRS, CEA Paris-Saclay"
 excerpt: ""
