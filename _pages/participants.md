@@ -47,16 +47,17 @@ author_profile: true
 - Israeli	Ben
 - Kolluru	Kiran
 - Lam	Amélie
-- Nazarenko	Sergey
-- Ortiz Bernal	Erika Paola
 - Magacho da Silva	Bruno
 - Mailybaev	Alexei
 - Manfredini	Lorenzo
 - Marino	Lorenzo
 - Massaro	Matteo
 - Minninni	Pablo
+- Nazarenko	Sergey
+- Ortiz Bernal	Erika Paola
 - Reartes	Christian de Jesus
 - Roy	Dipankar
+- Ruffenach	Wandrille
 - Saint-Raymond	Laure
 - Saisse	Giovanni
 - Shin	Seongho
@@ -66,6 +67,5 @@ author_profile: true
 - Tatarelli	Maya
 - Thalabard	Simon
 - Tibone	Gregorio
-- Ruffenach	Wandrille
 - Zamansky	Rémi
 
