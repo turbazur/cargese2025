@@ -46,7 +46,7 @@ author_profile: true
 - Huebner	Friedrich
 - Israeli	Ben
 - Kolluru	Kiran
-- Lam	Amelie
+- Lam	Amélie
 - Nazarenko	Sergey
 - Ortiz Bernal	Erika Paola
 - Magacho da Silva	Bruno
