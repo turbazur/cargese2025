@@ -47,6 +47,7 @@ author_profile: true
 - Israeli	Ben
 - Kolluru	Kiran
 - Lam	Amélie
+- Li Long
 - Magacho da Silva	Bruno
 - Mailybaev	Alexei
 - Manfredini	Lorenzo
