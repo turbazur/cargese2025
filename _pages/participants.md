@@ -31,6 +31,7 @@ author_profile: true
 - Castro Torre	Ramiro Ezequiel
 - Campolina	Ciro
 - Canet	Léonie
+- Careaga Sara
 - Considera	André
 - Coquand	Olivier
 - de Jesus Valadao	Victor
@@ -38,7 +39,6 @@ author_profile: true
 - Domingues Lemos	Julia
 - Dragoni	Pietro
 - Falkinhoff	Florencia
-- Freitas	André
 - Garg	Piyush
 - Gibert	Mathieu
 - Glukhovskiy	Daniil
@@ -69,4 +69,5 @@ author_profile: true
 - Thalabard	Simon
 - Tibone	Gregorio
 - Zamansky	Rémi
-
+- Zhou Rundong
+- Zirilli Giovanni
