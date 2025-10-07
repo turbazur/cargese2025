@@ -20,6 +20,6 @@ author_profile: true
 
 ---
 
-[**List of Projects3**](projects)
+[**List of Projects**](/cargese2025/projects)
 
 ---
