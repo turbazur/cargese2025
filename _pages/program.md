@@ -20,6 +20,6 @@ author_profile: true
 
 ---
 
-[**List of Projects2**](./Projects)
+[**List of Projects**](/projects)
 
 ---
