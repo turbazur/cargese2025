@@ -14,5 +14,3 @@ The school fee  will be about 800 euros, covering accommodation, breakfasts, lun
 
 - Applications are now closed. 
 
-- Very late applications may still be considered. Please contact us directly if interested. 
-
