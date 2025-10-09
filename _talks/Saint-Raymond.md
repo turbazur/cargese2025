@@ -1,5 +1,5 @@
 ---
-title: "Lecture"
+title: "Predictibility in fluid models at the different scales"
 collection: talks
 type: "Talk"
 permalink: /talks/SaintRaymond
