@@ -32,7 +32,7 @@ The project aims to analyse numerically and theoretically the emergence of non-G
 
 1. **Predictability of Kelvin-Helmholtz rings in $\alpha$-turbulence** (ST)
 The goal of this project is to numerically  investigate examples of simple singular initial data  for which the 2D Euler equations or their variants,  have non-unique solutions.
-One example is the 2D Kelvin-Helmoltz instability. When perturbed by a small noise it is known to give rise to spontaneous stochasticity of vortex sheets. The goal is to numerically investigate the universality of this mechanism when varying the range of interactions between the vortices.
+One example is the 2D Kelvin-Helmoltz instability. When perturbed by a small noise it is known to give rise to spontaneous stochasticity of vortex sheets. The goal is to numerically investigate the universality of this mechanism when varying the range of interactions between the vortices. 
 A second and perhaps simpler case is the initial data proposed by Bressan and Shen, 2019 (arxiv 2002.01962) where   vorticity has a point singularity.
 
 1. **Spontaneous stochasticity of the Kuramoto-Sivashinsky equation**  (ES)
