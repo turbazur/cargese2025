@@ -18,4 +18,6 @@ Any inquiry, please write to *school.turbazur\<AT\>univ-cotedazur.fr*
 
 ## Sponsors
 
-<img src="{{ site.baseurl }}/images/logo_uca.png" alt="Université Côte d'Azur" style="height: 100px" > 
+<img src="{{ site.baseurl }}/images/logo_uca.png" alt="Université Côte d'Azur" style="height: 100px" > &nbsp;
+
+<img src="{{ site.baseurl }}/images/logo_doeblin.png" alt="Fédération Wolfgang Doeblin " style="height: 90px" > 
