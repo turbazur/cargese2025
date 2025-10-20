@@ -34,7 +34,6 @@ author_profile: true
 - Careaga Sara
 - Considera	André
 - Coquand	Olivier
-- de Jesus Valadao	Victor
 - Dubrulle	Bérengère
 - Domingues Lemos	Julia
 - Dragoni	Pietro
@@ -54,6 +53,7 @@ author_profile: true
 - Marino	Lorenzo
 - Massaro	Matteo
 - Minninni	Pablo
+- Migliorelli Lorenzo
 - Nazarenko	Sergey
 - Ortiz Bernal	Erika Paola
 - Reartes	Christian de Jesus
