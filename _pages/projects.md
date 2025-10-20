@@ -44,3 +44,18 @@ This project aims at evaluating two-point statistics of a turbulent channel flow
 This project explores simplified dynamical models for the turbulent energy cascade that go beyond phenomenological approaches. The aim is to understand how intermittency, as described by Kolmogorov's 1962 refined self-similarity hypothesis, emerges dynamically from the coupling between scales. Students will construct and analyze stochastic evolution equations for coarse-grained energy transfers, investigating how fluctuations at small scales lead to intermittent statistics. A central aspect is to illustrate Eulerian spontaneous stochasticity, viewed through the lens of renormalization-group ideas, where multiplicative randomness arises from unresolved interactions. Model predictions will be compared with direct numerical simulations, focusing on scaling exponents, intermittency corrections, and the validity of refined similarity across scales.
 
 
+1. **Eulerian two-points statistics and assessment of the Kolmogorov-Obohukov scale-similarity hypothesis ** (RZ)
+This project is mainly a tutorial designed to let the students get familiarized with the basic concepts of turbulent field analysis (pdf, two-point correlation, structure function, etc.). By providing cross-sections from numerical simulations at Re_lambda = 350, students will be able to test Kolmogorov's K41 theory and its refined version, K62. Matlab and Python scripts are available, as well as a Jupiter notebook, at this address: 
+[(https://gitlab.com/some_stuffs/tuto_turbulence](https://gitlab.com/some_stuffs/tuto_turbulence)
+
+
+1. **Stochastic modeling of fluid tracers and time reversibility** (RZ)
+A stochastic model describing the interactions of a fluid particle with all other fluid particles of a turbulent flow has been proposed based on a local relationship between the force on the fluid particle, kinetic energy and dissipation. This model exhibits some of the remarkable characteristics of fluid particle dynamics, in particular the occurrence of extreme events and the emergence of an anomalous scaling law. This model can also produce an asymmetry in certain statistics (such as the rate of kinetic energy variation) through time reversal, a sign of dissipative dynamics. This project aims to characterize and analyze the conditions under which such temporal asymmetry is possible and to identify the minimum ingredients to be incorporated into a stochastic model in order to obtain this behavior. In particular, initial empirical tests seem to show that it is necessary to have non-Markovian dynamics and a non-diagonal diffusion tensor. Python or C++ programs for simulating this stochastic process are available.
+
+
+1. **Spectral periodicity** (RZ)
+To represent an unbounded domain in a simulation, one generally applies periodic boundary conditions. This allows for translation invariance.  Of course, finite size effects remain, the largest structures cannot exceed the size of the domain.
+Can periodic boundary conditions be applied in the spectral domain to simulate flow at infinite Reynolds number?
+The idea of the project is to simulate Euler's equations in the spectral domain by applying periodicity in scale. These developments could capitalize on the log-lattice technique.  
+This approach should, in principle, provide scale invariance, but there can be no interactions between modes of very different amplitudes, as the number of modes simulated remains finite.
+To what extent could this type of approach represent an infinite Reynolds flow?  In particular, with regard to the intermittency effects?
