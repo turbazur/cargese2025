@@ -39,7 +39,7 @@ The log-lattice code is already available for the study and works on PCs. Numeri
 1. **Zero-modes in a multifractal random shell model for scalar transport** (ST)
 The project aims to analyse numerically and theoretically the emergence of non-Gaussian flatness in multifractal extension of random dyadic model, which can be seen as a shell model version of the Kraichnan model of scalar transport.
 
-1. **Predictability of Kelvin-Helmholtz rings in $\alpha$-turbulence** (ST)
+1. **Predictability of singular initial vorticity problems** (ST)
 The goal of this project is to numerically  investigate examples of simple singular initial data  for which the 2D Euler equations or their variants,  have non-unique solutions.
 One example is the 2D Kelvin-Helmoltz instability. When perturbed by a small noise it is known to give rise to spontaneous stochasticity of vortex sheets. The goal is to numerically investigate the universality of this mechanism when varying the range of interactions between the vortices. 
 A second and perhaps simpler case is the initial data proposed by Bressan and Shen, 2019 (arxiv 2002.01962) where   vorticity has a point singularity.
