@@ -60,3 +60,7 @@ Can periodic boundary conditions be applied in the spectral domain to simulate f
 The idea of the project is to simulate Euler's equations in the spectral domain by applying periodicity in scale. These developments could capitalize on the log-lattice technique.  
 This approach should, in principle, provide scale invariance, but there can be no interactions between modes of very different amplitudes, as the number of modes simulated remains finite.
 To what extent could this type of approach represent an infinite Reynolds flow?  In particular, with regard to the intermittency effects?
+
+1. ** Make a DNS wish** (PM)
+If anyone has never done a DNS, we can do one. Any set of pdes! Any BC! Any cluster!
+ 
