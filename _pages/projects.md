@@ -39,7 +39,7 @@ The log-lattice code is already available for the study and works on PCs. Numeri
 1. **Zero-modes in a multifractal random shell model for scalar transport** (ST)
 The project aims to analyse numerically and theoretically the emergence of non-Gaussian flatness in multifractal extension of random dyadic model, which can be seen as a shell model version of the Kraichnan model of scalar transport.
 
-1. **Predictability of singular initial vorticity problems** (ST)
+1. **Predictability of singular initial vorticity problems** (AM & ST)
 The goal of this project is to numerically  investigate examples of simple singular initial data  for which the 2D Euler equations or their variants,  have non-unique solutions.
 One example is the 2D Kelvin-Helmoltz instability. When perturbed by a small noise it is known to give rise to spontaneous stochasticity of vortex sheets. The goal is to numerically investigate the universality of this mechanism when varying the range of interactions between the vortices. 
 A second and perhaps simpler case is the initial data proposed by Bressan and Shen, 2019 (arxiv 2002.01962) where   vorticity has a point singularity.
@@ -61,6 +61,6 @@ The idea of the project is to simulate Euler's equations in the spectral domain 
 This approach should, in principle, provide scale invariance, but there can be no interactions between modes of very different amplitudes, as the number of modes simulated remains finite.
 To what extent could this type of approach represent an infinite Reynolds flow?  In particular, with regard to the intermittency effects?
 
-1. ** Make a DNS wish** (PM)
+1. **Make a DNS wish** (PM)
 If anyone has never done a DNS, we can do one. Any set of pdes! Any BC! Any cluster!
  
