@@ -45,7 +45,7 @@ One example is the 2D Kelvin-Helmoltz instability. When perturbed by a small noi
 A second and perhaps simpler case is the initial data proposed by Bressan and Shen, 2019 (arxiv 2002.01962) where   vorticity has a point singularity.
 
 
-1. **Eulerian two-points statistics and assessment of the Kolmogorov-Obohukov scale-similarity hypothesis ** (RZ)
+1. **Eulerian two-points statistics and assessment of the Kolmogorov-Obohukov scale-similarity hypothesis** (RZ)
 This project is mainly a tutorial designed to let the students get familiarized with the basic concepts of turbulent field analysis (pdf, two-point correlation, structure function, etc.). By providing cross-sections from numerical simulations at Re_lambda = 350, students will be able to test Kolmogorov's K41 theory and its refined version, K62. Matlab and Python scripts are available, as well as a Jupiter notebook, at this address: 
 [(https://gitlab.com/some_stuffs/tuto_turbulence](https://gitlab.com/some_stuffs/tuto_turbulence)
 
