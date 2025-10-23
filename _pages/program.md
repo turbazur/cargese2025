@@ -25,3 +25,9 @@ author_profile: true
 [**List of projects**](/cargese2025/projects)
 
 ---
+
+---
+
+[**Short talks**](/cargese2025/shorttalks)
+
+---
