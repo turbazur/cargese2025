@@ -16,4 +16,9 @@ The course focuses on the Lagrangian approach to turbulence and turbulent transp
 
 ---
 
-[Lecture 1 - Multfractal model]({{site.baseurl}}/files/Cencini-1.pdf)
+[Lecture 1 - Multifractal model]({{site.baseurl}}/files/Cencini-1.pdf)
+
+[Lecture 2 - Lagrangian Dispersion]({{site.baseurl}}/files/Cencini-2.pdf)
+
+[Lecture 3 - Passive scalar]({{site.baseurl}}/files/Cencini-3.pdf)
+
