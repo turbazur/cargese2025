@@ -17,7 +17,7 @@ author_profile: true
 **Schedule**
 
 <div>
-<embed src="{{ site.baseurl }}/files/schedule_v0.pdf" width="450" height="400" type='application/pdf'> 
+<embed src="{{ site.baseurl }}/files/schedule_updated.pdf" width="450" height="400" type='application/pdf'> 
 </div>
 
 ---
