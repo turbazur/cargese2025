@@ -13,18 +13,19 @@ tags:
 
 ---
 
+[Lecture notes]({{site.baseurl}}/files/Nazarenko-123.pdf)
 
-***Overview (Mostly $T=0$)***
+**Overview (Mostly $T=0$)**
 
-- Examples
+1. Examples
 
-- QT of quantised vortices
+2. QT of quantised vortices
     - Gas of point vortices in 2D
     - vortex tangles in 3D
 
-- Wave turbulence
+3. Wave turbulence
     - 4-wave mixing of matter waves
     - 3-wave acoustic wave interaction
     - 4-wave mixing of Kelvin waves
 
-- Vortices+waves put together 
+4. Vortices+waves put together 
