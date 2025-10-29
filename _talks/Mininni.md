@@ -14,3 +14,10 @@ tags: ""
 ---
 
 This course will give an introduction to stratified, rotating, and QG turbulence, and also talk about particles in geophysical applications within the context of these approximations.
+
+---
+
+[Lecture 1 - General introduction]({{site.baseurl}}/files/Mininni-1.pdf)
+
+[Lecture 2 - Stratified flows]({{site.baseurl}}/files/Mininni-2.pdf)
+
