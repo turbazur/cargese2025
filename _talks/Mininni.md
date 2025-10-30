@@ -21,3 +21,5 @@ This course will give an introduction to stratified, rotating, and QG turbulence
 
 [Lecture 2 - Stratified flows]({{site.baseurl}}/files/Mininni-2.pdf)
 
+[Lecture 3 - Rotating flows]({{site.baseurl}}/files/Mininni-3.pdf)
+
