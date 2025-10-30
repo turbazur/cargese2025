@@ -17,6 +17,8 @@ Turbulence, a phenomenon observed by physicists in natural and laboratory flows,
 In these lectures, I will discuss how recent progresses in mathematics, numerical simulations and laboratory experiments changed such simple vision leading to a new picture where quasi-singularities living beyond Kolmogorov scale play a central role.
 
 Topics Covered:
-- The basic empirical laws of turbulence
-- Some mathematical aspects of Navier-Stokes equations
-- Singularities, anomalous laws and predictability of turbulence
+- [Basic empirical laws]({{site.baseurl}}/files/Dubrulle-1_EmpiricalLaws.pdf) 
+- [Mysteries]({{site.baseurl}}/files/Dubrulle-2a_Mysteries.pdf) 
+- [Singularities]({{site.baseurl}}/files/Dubrulle-2b_Singularities.pdf) 
+- [Scale hierarchy]({{site.baseurl}}/files/Dubrulle-3a_ScaleHierarchy.pdf) 
+- [Intermittency]({{site.baseurl}}/files/Dubrulle-3b_Intermittency.pdf) 
