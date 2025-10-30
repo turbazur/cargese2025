@@ -3,7 +3,7 @@ title: "Turbulence: from empirical laws to singularities"
 collection: talks
 type: "Talk"
 permalink: /talks/Dubrulle
-date: 2025-10-28 10:45
+date: 2025-10-27 17:30
 dateb: 2025-10-29 08:45 
 datec: 2025-10-30 10:45
 author: "Bérengère Dubrulle" 

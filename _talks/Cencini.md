@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/Cencini
 date: 2025-10-22 10:45
 dateb: 2025-10-24 10:45 
-datec: 2025-10-25 08:45
+datec: 2025-10-25 16:30
 author: "Massimo Cencini" 
 affiliation: "CNR, Istituto dei Sistemi Complessi, Rome"
 excerpt: " "
